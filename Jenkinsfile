@@ -11,6 +11,7 @@ pipeline {
 	        UIPATH_ORCH_LOGICAL_NAME = "zdh"
 	        UIPATH_ORCH_TENANT_NAME = "zdh"
 	        UIPATH_ORCH_FOLDER_NAME = "CICD"
+			
 	    }
 	
 
